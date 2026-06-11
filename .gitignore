@@ -72,7 +72,6 @@ prof/
 # OS files
 .DS_Store
 Thumbs.db
-image.png
 
 # Secrets / environment
 .env
